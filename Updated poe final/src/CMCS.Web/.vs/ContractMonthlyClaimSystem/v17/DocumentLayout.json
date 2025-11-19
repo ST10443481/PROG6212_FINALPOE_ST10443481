@@ -216,8 +216,7 @@
               "RelativeToolTip": "Controllers\\ClaimsController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAMwBUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T10:14:23.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T10:14:23.954Z"
             },
             {
               "$type": "Document",
@@ -229,8 +228,7 @@
               "RelativeToolTip": "Views\\Users\\Edit.cshtml",
               "ViewState": "AgIAAA4AAACAmZmZmVkqwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-18T21:57:43.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-18T21:57:43.923Z"
             },
             {
               "$type": "Document",
@@ -240,7 +238,7 @@
               "RelativeDocumentMoniker": "Controllers\\ApprovalsController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Controllers\\ApprovalsController.cs",
               "RelativeToolTip": "Controllers\\ApprovalsController.cs",
-              "ViewState": "AgIAAB8AAAAANTMzMzMUwBEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T10:14:05.275Z",
               "EditorCaption": ""
@@ -255,8 +253,7 @@
               "RelativeToolTip": "Models\\ClaimStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:42:20.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T11:42:20.224Z"
             },
             {
               "$type": "Document",
@@ -268,8 +265,7 @@
               "RelativeToolTip": "Services\\InMemoryClaimStore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T10:15:59.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T10:15:59.327Z"
             },
             {
               "$type": "Document",
@@ -281,8 +277,7 @@
               "RelativeToolTip": "Services\\IClaimStore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:43:03.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T11:43:03.173Z"
             },
             {
               "$type": "Document",

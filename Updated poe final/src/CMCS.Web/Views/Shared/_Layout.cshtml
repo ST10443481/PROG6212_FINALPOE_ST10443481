@@ -99,12 +99,17 @@
         <a href="/">Dashboard</a>
         <a href="/Claims">Claims</a>
         <a href="/Approvals">Approvals</a>
-        <a href="#" onclick="alert('Documents module (simulation)'); return false;">Documents</a>
         <a class="right" href="/Auth/Register">Register</a>
         <a class="left" href="/Auth/Login">Login</a>
     </nav>
     @{
         var user = Context.Session.GetObject<CMCS.Web.Models.User>("User");
+    }
+    @if (user != null && user.Role == "HR")
+    {
+        <li class="nav-item">
+            <a class="nav-link" href="/Users">Manage Users</a>
+        </li>
     }
 
     @if (user == null)
@@ -115,7 +120,7 @@
     {
         <span class="nav-link text-dark">Hello, @user.FullName (@user.Role)</span>
 
-        <a class="nav-link text-danger" href="/Auth/Logout">Logout</a>
+        <a class="btn btn-danger" href="/Auth/Logout">Logout</a>
     }
 
     @if (user == null)

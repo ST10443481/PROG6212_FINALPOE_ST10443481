@@ -22,7 +22,7 @@ namespace CMCS.Web.Controllers
         {
             return View(_store.Pending());
         }
-        [RoleAuthorize("Coordinator", "HR")]
+        [RoleAuthorize("Coordinator","Manager", "HR")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Approve(string id)
@@ -32,7 +32,8 @@ namespace CMCS.Web.Controllers
             TempData["Success"] = $"Approved claim {id}.";
             return RedirectToAction(nameof(Index));
         }
-        [RoleAuthorize("Coordinator", "HR")]
+
+        [RoleAuthorize("Coordinator","Manager","HR")]
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Reject(string id)

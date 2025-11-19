@@ -32,5 +32,15 @@ namespace CMCS.Web.Services
         {
             if (Get(id) is { } c) { c.Status = ClaimStatus.Settled; c.UpdatedAt = DateTime.UtcNow; }
         }
+
+        public void Update(Claim claim)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Claim Get(Guid id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

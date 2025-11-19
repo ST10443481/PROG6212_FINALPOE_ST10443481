@@ -1,0 +1,813 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:controllers\\claimscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\hubs\\claimshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:hubs\\claimshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\controllers\\approvalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:controllers\\approvalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\attributes\\roleauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:attributes\\roleauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\cmcs.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:cmcs.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:helpers\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\claims\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\claims\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\claimcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\claimcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\services\\inmemoryuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:services\\inmemoryuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\services\\iuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:services\\iuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\approval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\claims\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\claims\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\services\\inmemoryclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:services\\inmemoryclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Downloads\\MonthlyClaimSystem1_fixed\\_inspection_index.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\claims\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\approvals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\approvals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\views\\approvals\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\approvals\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\services\\iclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:services\\iclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\claimstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\claimstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\claimitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\claimitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\music\\updated poe final\\src\\cmcs.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lab_services_student\\Music\\src\\UnitTestProject1\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAwAAABAAQAAAEAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T17:55:48.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAIAAABUBQAAAAAhwDwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:39:31.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAFIAAAAAm5mZmdkvwDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:04:37.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T12:02:27.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaimsHub.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Hubs\\ClaimsHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ClaimsHub.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Hubs\\ClaimsHub.cs",
+              "RelativeToolTip": "Hubs\\ClaimsHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:36:31.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClaimsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\ClaimsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClaimsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\ClaimsController.cs",
+              "RelativeToolTip": "Controllers\\ClaimsController.cs",
+              "ViewState": "AgIAADkAAACwmpmZmVk5wAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:14:23.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAACAZmZmZmYPwAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:14:30.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T23:39:57.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApprovalsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\ApprovalsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApprovalsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Controllers\\ApprovalsController.cs",
+              "RelativeToolTip": "Controllers\\ApprovalsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:14:05.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T22:06:25.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAALDMzMzPrvygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T21:57:43.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAABoAAAAAODMzMzPrvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T21:57:00.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAQAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:42:51.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:03:41.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\DashboardViewModel.cs",
+              "RelativeToolTip": "Models\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:42:28.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:42:44.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:26:52.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAACAzMzMzEwXwB0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:30:50.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CMCS.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj",
+              "RelativeDocumentMoniker": "CMCS.Web.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj",
+              "RelativeToolTip": "CMCS.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-18T22:01:43.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Attributes\\RoleAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Attributes\\RoleAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Attributes\\RoleAuthorizeAttribute.cs",
+              "RelativeToolTip": "Attributes\\RoleAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:08:28.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Helpers\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Helpers\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Helpers\\SessionExtensions.cs",
+              "RelativeToolTip": "Helpers\\SessionExtensions.cs",
+              "ViewState": "AgIAAAIAAACgMzMzM7MSwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:02:52.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T21:54:58.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClaimCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ClaimCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimCreateViewModel.cs",
+              "RelativeToolTip": "Models\\ClaimCreateViewModel.cs",
+              "ViewState": "AgIAAAMAAADQaWZmZuYcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:42:01.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Claims\\New.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\New.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Claims\\New.cshtml",
+              "RelativeToolTip": "Views\\Claims\\New.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T11:46:42.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InMemoryUserStore.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Services\\InMemoryUserStore.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryUserStore.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Services\\InMemoryUserStore.cs",
+              "RelativeToolTip": "Services\\InMemoryUserStore.cs",
+              "ViewState": "AgIAAAUAAADAZWZmZuYhwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:37:39.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserStore.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Services\\IUserStore.cs",
+              "RelativeDocumentMoniker": "Services\\IUserStore.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Services\\IUserStore.cs",
+              "RelativeToolTip": "Services\\IUserStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:36:55.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:01:05.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\src\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\src\\UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\src\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\src\\UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAMAAABgzczMzIwtwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:01:39.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Approval.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\Approval.cs",
+              "RelativeDocumentMoniker": "Models\\Approval.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\Approval.cs",
+              "RelativeToolTip": "Models\\Approval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:36:37.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ClaimStoreTests.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:01:10.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Claims\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Claims\\Index.cshtml",
+              "RelativeToolTip": "Views\\Claims\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T11:46:33.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Claims\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Claims\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Claims\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Claims\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T11:46:23.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T11:49:15.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Approvals\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Approvals\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Approvals\\Index.cshtml",
+              "RelativeToolTip": "Views\\Approvals\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T11:46:06.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Approvals\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Approvals\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Views\\Approvals\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Approvals\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T11:43:39.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:03:41.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UnitTestProject1.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T11:31:36.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InMemoryClaimStore.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Services\\InMemoryClaimStore.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryClaimStore.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Services\\InMemoryClaimStore.cs",
+              "RelativeToolTip": "Services\\InMemoryClaimStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:15:59.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IClaimStore.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Services\\IClaimStore.cs",
+              "RelativeDocumentMoniker": "Services\\IClaimStore.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Services\\IClaimStore.cs",
+              "RelativeToolTip": "Services\\IClaimStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:43:03.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "Models\\Document.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\Document.cs",
+              "RelativeToolTip": "Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:15:34.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ClaimStatus.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimStatus.cs",
+              "RelativeDocumentMoniker": "Models\\ClaimStatus.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimStatus.cs",
+              "RelativeToolTip": "Models\\ClaimStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:42:20.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ClaimItem.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimItem.cs",
+              "RelativeDocumentMoniker": "Models\\ClaimItem.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimItem.cs",
+              "RelativeToolTip": "Models\\ClaimItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:42:11.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\Claim.cs",
+              "RelativeToolTip": "Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:41:46.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Models\\AuditLog.cs",
+              "RelativeToolTip": "Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:41:38.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Music\\Updated poe final\\src\\CMCS.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T11:38:38.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_inspection_index.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MonthlyClaimSystem1_fixed\\_inspection_index.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\MonthlyClaimSystem1_fixed\\_inspection_index.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Downloads\\MonthlyClaimSystem1_fixed\\_inspection_index.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\MonthlyClaimSystem1_fixed\\_inspection_index.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-22T10:13:19.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UnitTestProject1.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T18:31:21.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClaimStoreTests.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:31:16.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\packages.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\packages.config",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\packages.config",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\packages.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-20T18:31:11.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:31:07.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

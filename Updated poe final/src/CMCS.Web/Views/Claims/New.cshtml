@@ -1,0 +1,107 @@
+@model CMCS.Web.Models.ClaimCreateViewModel
+@{
+    ViewData["Title"] = "Submit Claim";
+    var users = ViewBag.Users as IEnumerable<dynamic> ?? Enumerable.Empty<dynamic>();
+}
+
+<h2>Submit Claim</h2>
+
+<form asp-action="New" method="post" enctype="multipart/form-data" class="card p-3 shadow-sm" id="claimForm">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="mb-3">
+        <label asp-for="LecturerId" class="form-label">Lecturer</label>
+        <select asp-for="LecturerId" class="form-control" id="lecturerSelect">
+            <option value="">-- Select your name --</option>
+            @foreach (var u in users)
+            {
+                <option value="@u.UserId" data-rate="@u.HourlyRate">@u.FullName (@String.Format("{0:C}", u.HourlyRate))</option>
+            }
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="HoursWorked" class="form-label"></label>
+        <input asp-for="HoursWorked" id="hours" class="form-control" />
+        <span asp-validation-for="HoursWorked" class="text-danger"></span>
+        <div id="hoursWarning" class="text-danger" style="display:none;">Hours cannot exceed 180 in a month.</div>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="HourlyRate" class="form-label"></label>
+        <input asp-for="HourlyRate" id="rate" class="form-control" />
+        <span asp-validation-for="HourlyRate" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Calculated Amount (R)</label>
+        <div id="amountDisplay" class="form-control">R 0.00</div>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Document" class="form-label"></label>
+        <input asp-for="Document" type="file" class="form-control" accept=".pdf,.docx,.xlsx" />
+        <span class="form-text">Allowed: .pdf, .docx, .xlsx • Max 10 MB</span>
+        <span asp-validation-for="Document" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Notes" class="form-label"></label>
+        <textarea asp-for="Notes" class="form-control"></textarea>
+    </div>
+
+    <button type="submit" id="submitBtn" class="btn btn-success btn-lg">Submit</button>
+    <a href="@Url.Action("Index")" class="btn btn-outline-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        (function() {
+            const hoursEl = document.getElementById('hours');
+            const rateEl = document.getElementById('rate');
+            const amountEl = document.getElementById('amountDisplay');
+            const lecturerSelect = document.getElementById('lecturerSelect');
+            const hoursWarning = document.getElementById('hoursWarning');
+            const submitBtn = document.getElementById('submitBtn');
+
+            function parseNum(v) {
+                if (!v) return 0;
+                return parseFloat(v.toString().replace(',', '.')) || 0;
+            }
+
+            function updateAmount() {
+                const h = parseNum(hoursEl.value);
+                const r = parseNum(rateEl.value);
+                const amt = Math.round((h * r) * 100) / 100;
+                amountEl.textContent = (new Intl.NumberFormat('en-ZA', { style: 'currency', currency: 'ZAR' })).format(amt);
+            }
+
+            function checkHoursLimit() {
+                const h = parseNum(hoursEl.value);
+                if (h > 180) {
+                    hoursWarning.style.display = '';
+                    submitBtn.disabled = true;
+                } else {
+                    hoursWarning.style.display = 'none';
+                    submitBtn.disabled = false;
+                }
+            }
+
+            // when lecturer selected, populate hourly rate
+            lecturerSelect?.addEventListener('change', function(e) {
+                const opt = this.selectedOptions[0];
+                if (opt && opt.dataset && opt.dataset.rate) {
+                    rateEl.value = opt.dataset.rate;
+                    updateAmount();
+                }
+            });
+
+            hoursEl?.addEventListener('input', function(){ updateAmount(); checkHoursLimit(); });
+            rateEl?.addEventListener('input', function(){ updateAmount(); });
+
+            // initial calc
+            updateAmount();
+        })();
+    </script>
+}

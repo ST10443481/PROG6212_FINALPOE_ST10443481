@@ -1,0 +1,45 @@
+@model IEnumerable<CMCS.Web.Models.Claim>
+@{
+    ViewData["Title"] = "Verification Queue";
+}
+<h2>Verification Queue</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Claim ID</th>
+            <th>Lecturer</th>
+            <th>Hours</th>
+            <th>Amount (R)</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var c in Model)
+    {
+        <tr>
+            <td>@c.Id</td>
+            <td>@c.Lecturer</td>
+            <td>@c.HoursWorked</td>
+            <td>@c.Amount</td>
+            <td><span class="badge bg-warning text-dark">@c.Status</span></td>
+            <td>
+                <form asp-action="Approve" method="post" class="d-inline">
+                    <input type="hidden" name="id" value="@c.Id" />
+                    <button class="btn btn-sm btn-success" type="submit">Approve</button>
+                </form>
+                <form asp-action="Reject" method="post" class="d-inline">
+                    <input type="hidden" name="id" value="@c.Id" />
+                    <button class="btn btn-sm btn-danger" type="submit">Reject</button>
+                </form>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

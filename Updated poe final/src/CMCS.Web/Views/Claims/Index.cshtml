@@ -1,0 +1,70 @@
+@model IEnumerable<CMCS.Web.Models.Claim>
+@{
+    ViewData["Title"] = "My Claims";
+}
+<h2>My Claims</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<p>
+    <a class="btn btn-primary" href="@Url.Action("New","Claims")">Submit Claim</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Claim ID</th>
+            <th>Hours</th>
+            <th>Rate (R)</th>
+            <th>Amount (R)</th>
+            <th>Status</th>
+            <th>Updated</th>
+        </tr>
+    </thead>
+    <tbody id="claims-tbody">
+    @foreach (var c in Model)
+    {
+        <tr id="row-@c.Id">
+            <td>@c.Id</td>
+            <td>@c.HoursWorked</td>
+            <td>@c.HourlyRate</td>
+            <td>@c.Amount</td>
+            <td>
+                <span class="badge bg-secondary" id="status-@c.Id">@c.Status</span>
+                <div class="progress" style="height:6px; margin-top:6px;">
+                    <div class="progress-bar" role="progressbar" style="width:@GetPercent(c.Status)%"></div>
+                </div>
+            </td>
+            <td>@c.UpdatedAt.ToLocalTime()</td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+@section Scripts {
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/8.0.0/signalr.min.js"></script>
+<script>
+    const connection = new signalR.HubConnectionBuilder().withUrl("/hubs/claims").build();
+    connection.on("statusChanged", (id, status) => {
+        const badge = document.getElementById(`status-${id}`);
+        if (badge) { badge.textContent = status; }
+    });
+    connection.start();
+</script>
+}
+
+@functions {
+    int GetPercent(CMCS.Web.Models.ClaimStatus s) =>
+        s switch {
+            CMCS.Web.Models.ClaimStatus.Draft => 10,
+            CMCS.Web.Models.ClaimStatus.Submitted => 25,
+            CMCS.Web.Models.ClaimStatus.PendingVerification => 50,
+            CMCS.Web.Models.ClaimStatus.Approved => 80,
+            CMCS.Web.Models.ClaimStatus.Settled => 100,
+            CMCS.Web.Models.ClaimStatus.Rejected => 100,
+            _ => 0
+        };
+}

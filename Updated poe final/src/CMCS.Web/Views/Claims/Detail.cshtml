@@ -1,0 +1,25 @@
+@model CMCS.Web.Models.Claim
+@{
+    ViewData["Title"] = "Claim Detail";
+}
+<h2>Claim Detail</h2>
+
+<div class="card p-3">
+    <dl class="row">
+        <dt class="col-sm-3">Claim ID</dt><dd class="col-sm-9">@Model.Id</dd>
+        <dt class="col-sm-3">Hours</dt><dd class="col-sm-9">@Model.HoursWorked</dd>
+        <dt class="col-sm-3">Rate</dt><dd class="col-sm-9">R @Model.HourlyRate</dd>
+        <dt class="col-sm-3">Amount</dt><dd class="col-sm-9">R @Model.Amount</dd>
+        <dt class="col-sm-3">Status</dt><dd class="col-sm-9">@Model.Status</dd>
+        <dt class="col-sm-3">Document</dt><dd class="col-sm-9">
+            @if (!string.IsNullOrEmpty(Model.DocumentFileName))
+            {
+                <a href="@Url.Content("~/uploads/" + Model.DocumentFileName)" target="_blank">View file</a>
+            }
+            else
+            {
+                <em>None</em>
+            }
+        </dd>
+    </dl>
+</div>

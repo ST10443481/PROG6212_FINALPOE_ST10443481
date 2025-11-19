@@ -1,0 +1,46 @@
+﻿@model IEnumerable<CMCS.Web.Models.User>
+
+@{
+    ViewData["Title"] = "Manage Users (HR)";
+}
+
+<h2 class="mb-3">Manage Users</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+
+<div class="mb-3">
+    <a href="@Url.Action("Create")" class="btn btn-primary">Add New User</a>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Full Name</th>
+            <th>Email</th>
+            <th>Role</th>
+            <th>Hourly Rate (R)</th>
+            <th>Status</th>
+            <th style="width: 160px;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.FullName</td>
+                <td>@u.Email</td>
+                <td>@u.Role</td>
+                <td>@u.HourlyRate.ToString("C")</td>
+                <td>@(u.IsActive ? "Active" : "Inactive")</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = u.UserId })" class="btn btn-sm btn-warning">Edit</a>
+                    <a href="@Url.Action("Delete", new { id = u.UserId })" class="btn btn-sm btn-danger"
+                       onclick="return confirm('Delete this user?');">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

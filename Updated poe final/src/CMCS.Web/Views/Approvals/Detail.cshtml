@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Approval Detail";
+}
+<h2>Approval – @ViewBag.ClaimId</h2>
+<div class="card">
+    <h3>Stage: Coordinator</h3>
+    <p>Status: Pending</p>
+</div>
+<div class="actions">
+    <button class="btn" onclick="simulateApprove()">Approve (simulation)</button>
+    <button class="btn btn-outline" onclick="simulateReject()">Reject (simulation)</button>
+</div>

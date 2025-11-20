@@ -10,8 +10,9 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddSignalR();
 
 // Register in-memory store (for prototype)
-
-//builder.Services.AddScoped<IClaimStore, ClaimRepository>();
+builder.Services.AddSingleton<IClaimStore, InMemoryClaimStore>();
+builder.Services.AddSingleton<IClaimStore, InMemoryClaimStore>();
+builder.Services.AddSingleton<IUserStore, InMemoryUserStore>();
 builder.Services.AddSingleton<IUserStore, InMemoryUserStore>();
 
 

@@ -18,17 +18,5 @@ namespace CMCS.Web.Models
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         public DateTime UpdatedAt { get; set; } = DateTime.UtcNow;
         public decimal Amount => Math.Round(HoursWorked * HourlyRate, 2);
-        // Coordinator approval info
-        public string? CoordinatorApprovedBy { get; set; }
-        public DateTime? CoordinatorApprovedAt { get; set; }
-        // Manager approval info
-        public string? ManagerApprovedBy { get; set; }
-        public DateTime? ManagerApprovedAt { get; set; }
-        // Settled info
-        public string? SettledBy { get; set; }
-        public DateTime? SettledAt { get; set; }
-        // Rejection info
-        public string? RejectedBy { get; set; }
-        public DateTime? RejectedAt { get; set; }
     }
 }

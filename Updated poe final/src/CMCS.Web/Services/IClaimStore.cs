@@ -1,17 +1,15 @@
-using System;
-using System.Collections.Generic;
 using CMCS.Web.Models;
 
 namespace CMCS.Web.Services
 {
     public interface IClaimStore
     {
-        Claim Get(Guid claimId);
-        List<Claim> All();
-        void Approve(Guid claimId);
-        void Reject(Guid claimId);
-        void Settle(Guid claimId);
-        void Update(Claim claim);
-        void Add(Claim claim);
+        IEnumerable<Claim> All();
+        IEnumerable<Claim> Pending();
+        Claim? Get(string id);
+        Claim Add(Claim claim);
+        void Approve(string id);
+        void Reject(string id);
+        void Settle(string id);
     }
 }

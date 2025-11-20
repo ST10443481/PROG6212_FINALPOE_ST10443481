@@ -1,14 +1,12 @@
-﻿namespace CMCS.Web.Models
+namespace CMCS.Web.Models
 {
     public enum ClaimStatus
     {
-        PendingVerification,    // Lecturer submitted → waiting for Coordinator
-        Verified,               // Coordinator verified it
-        PendingFinalApproval,   // Waiting for Manager approval
-        Approved,               // Fully approved by Manager (and Coordinator already)
-        Rejected,               // Coordinator rejected
-        Settled,                 // Payment processed
-        Submitted,
-        Update
+        Draft = 0,
+        Submitted = 1,
+        PendingVerification = 2,
+        Approved = 3,
+        Rejected = 4,
+        Settled = 5
     }
 }

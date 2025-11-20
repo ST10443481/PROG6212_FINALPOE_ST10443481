@@ -112,18 +112,18 @@
     {
         //<a href="/Users/Index" class="btn btn-primary right" style="margin-left:auto;">Manage Users</a>
     }
- 
-   
-    @if (user == null)
+
+
+    @if (user != null)
     {
-       // <a class="nav-link" href="/Auth/Login">Login</a>
+        <span class="nav-link text-dark">Hello, @user.FullName (@user.Role)</span>
+        <a class="nav-link text-danger" href="/Auth/Logout">Logout</a>
     }
     else
     {
-        <span class="nav-link text-dark">Hello, @user.FullName (@user.Role)</span>
-
-        <a class="nav-link text-danger" href="/Auth/Logout">Logout</a>
+       // <a class="nav-link" href="/Auth/Login">Login</a>
     }
+
 
     @if (user == null)
     {

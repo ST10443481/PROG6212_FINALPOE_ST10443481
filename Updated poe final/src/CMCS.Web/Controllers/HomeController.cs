@@ -1,7 +1,8 @@
-using CMCS.Web.Services;
-using CMCS.Web.Models;
-using Microsoft.AspNetCore.Mvc;
 using System.Linq;
+using CMCS.Web.Helpers;
+using CMCS.Web.Models;
+using CMCS.Web.Services;
+using Microsoft.AspNetCore.Mvc;
 
 namespace CMCS.Web.Controllers
 {
@@ -15,7 +16,12 @@ namespace CMCS.Web.Controllers
 
         public IActionResult Index()
         {
-            var all = _store.All().ToList();
+            var user = HttpContext.Session.GetObject<User>("User");
+            if (user == null)
+                return RedirectToAction("Login", "Auth");
+
+            var all = _store.All()?.ToList() ?? new List<Claim>();
+
             var vm = new DashboardViewModel
             {
                 DraftCount = all.Count(c => c.Status == ClaimStatus.Draft),
@@ -25,10 +31,12 @@ namespace CMCS.Web.Controllers
                 SettledCount = all.Count(c => c.Status == ClaimStatus.Settled),
                 TotalSubmittedAmount = all.Where(c => c.Status == ClaimStatus.Submitted).Sum(c => c.Amount),
                 TotalApprovedAmount = all.Where(c => c.Status == ClaimStatus.Approved || c.Status == ClaimStatus.Settled).Sum(c => c.Amount),
-                RecentPending = _store.Pending().OrderByDescending(c => c.CreatedAt).Take(5).ToList(),
+                RecentPending = _store.Pending()?.OrderByDescending(c => c.CreatedAt).Take(5).ToList() ?? new List<Claim>(),
                 RecentActivity = all.OrderByDescending(c => (c.UpdatedAt > c.CreatedAt ? c.UpdatedAt : c.CreatedAt)).Take(5).ToList()
             };
+
             return View(vm);
         }
+
     }
 }

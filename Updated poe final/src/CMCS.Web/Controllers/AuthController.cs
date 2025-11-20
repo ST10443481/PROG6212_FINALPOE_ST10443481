@@ -40,10 +40,11 @@ namespace CMCS.Web.Controllers
             {
                 "HR" => RedirectToAction("Index", "Users"),
                 "Lecturer" => RedirectToAction("Index", "Claims"),
-                "Coordinator" => RedirectToAction("Pending", "Approvals"),
-                "Manager" => RedirectToAction("Pending", "Approvals"),
+                "Coordinator" => RedirectToAction("Index", "Approvals"),
+                "Manager" => RedirectToAction("Index", "Approvals"),
                 _ => RedirectToAction("Index", "Home")
             };
+
         }
 
         public IActionResult Register()

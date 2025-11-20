@@ -8,6 +8,7 @@
         Approved,               // Fully approved by Manager (and Coordinator already)
         Rejected,               // Coordinator rejected
         Settled,                 // Payment processed
-        Submitted
+        Submitted,
+        Update
     }
 }

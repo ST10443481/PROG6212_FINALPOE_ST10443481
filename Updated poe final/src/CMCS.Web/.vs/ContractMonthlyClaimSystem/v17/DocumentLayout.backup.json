@@ -3,16 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\services\\iclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:services\\iclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\services\\inmemoryclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:services\\inmemoryclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C7E761-E196-47EF-97E1-91B8C6793CA5}|..\\UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\unittestproject1\\unittestproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\services\\iclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:services\\iclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\cmcs.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:cmcs.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\models\\claimstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\claimstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\views\\approvals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\approvals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\views\\approvals\\pending.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\approvals\\pending.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\views\\approvals\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\approvals\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\models\\claimcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +54,8 @@
       "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\services\\inmemoryclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:services\\inmemoryclaimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\services\\inmemoryuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:services\\inmemoryuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\models\\claimstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:models\\claimstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\cmcs.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:cmcs.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -49,18 +64,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\views\\approvals\\pending.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\approvals\\pending.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\views\\approvals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\approvals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\views\\approvals\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|solutionrelative:views\\approvals\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A09AD999-F68D-7F84-190A-67DC46B79388}|CMCS.Web.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_finalpoe_st10443481\\updated poe final\\src\\cmcs.web\\hubs\\claimshub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -216,103 +219,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Claim.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\Claim.cs",
-              "RelativeDocumentMoniker": "Models\\Claim.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\Claim.cs",
-              "RelativeToolTip": "Models\\Claim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:41:46.118Z"
+              "Title": "UnitTestProject1.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+              "RelativeDocumentMoniker": "..\\UnitTestProject1\\UnitTestProject1.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+              "RelativeToolTip": "..\\UnitTestProject1\\UnitTestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T17:19:53.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T18:30:50.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ClaimStatus.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimStatus.cs",
-              "RelativeDocumentMoniker": "Models\\ClaimStatus.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimStatus.cs",
-              "RelativeToolTip": "Models\\ClaimStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:42:20.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IClaimStore.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Services\\IClaimStore.cs",
               "RelativeDocumentMoniker": "Services\\IClaimStore.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Services\\IClaimStore.cs",
               "RelativeToolTip": "Services\\IClaimStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:43:03.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T11:43:03.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ClaimStoreTests.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\UnitTestProject1\\ClaimStoreTests.cs",
-              "RelativeDocumentMoniker": "..\\UnitTestProject1\\ClaimStoreTests.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\UnitTestProject1\\ClaimStoreTests.cs",
-              "RelativeToolTip": "..\\UnitTestProject1\\ClaimStoreTests.cs",
-              "ViewState": "AgIAAAYAAABANDMzM7MSwBYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T20:53:15.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Approval.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\Approval.cs",
-              "RelativeDocumentMoniker": "Models\\Approval.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\Approval.cs",
-              "RelativeToolTip": "Models\\Approval.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T09:36:37.992Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClaimsHub.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Hubs\\ClaimsHub.cs",
-              "RelativeDocumentMoniker": "Hubs\\ClaimsHub.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Hubs\\ClaimsHub.cs",
-              "RelativeToolTip": "Hubs\\ClaimsHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T09:36:31.256Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InMemoryUserStore.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Services\\InMemoryUserStore.cs",
-              "RelativeDocumentMoniker": "Services\\InMemoryUserStore.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Services\\InMemoryUserStore.cs",
-              "RelativeToolTip": "Services\\InMemoryUserStore.cs",
-              "ViewState": "AgIAAAUAAADgMjMzM/M1wDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T21:37:39.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ClaimCreateViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimCreateViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ClaimCreateViewModel.cs",
@@ -324,43 +254,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T10:14:30.689Z"
+              "WhenOpened": "2025-10-22T10:14:30.689Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "InMemoryClaimStore.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Services\\InMemoryClaimStore.cs",
               "RelativeDocumentMoniker": "Services\\InMemoryClaimStore.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Services\\InMemoryClaimStore.cs",
               "RelativeToolTip": "Services\\InMemoryClaimStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T10:15:59.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\Claim.cs",
+              "RelativeToolTip": "Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:41:46.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Approvals\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Approvals\\Index.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Approvals\\Index.cshtml",
               "RelativeToolTip": "Views\\Approvals\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-22T11:46:06.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Approvals\\Detail.cshtml",
               "RelativeDocumentMoniker": "Views\\Approvals\\Detail.cshtml",
@@ -372,19 +315,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "Pending.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Approvals\\Pending.cshtml",
+              "RelativeDocumentMoniker": "Views\\Approvals\\Pending.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Approvals\\Pending.cshtml",
+              "RelativeToolTip": "Views\\Approvals\\Pending.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T20:32:13.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClaimStatus.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimStatus.cs",
+              "RelativeDocumentMoniker": "Models\\ClaimStatus.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimStatus.cs",
+              "RelativeToolTip": "Models\\ClaimStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:42:20.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CMCS.Web.csproj",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj",
               "RelativeDocumentMoniker": "CMCS.Web.csproj",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj",
               "RelativeToolTip": "CMCS.Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-18T22:01:43.925Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InMemoryUserStore.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Services\\InMemoryUserStore.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryUserStore.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Services\\InMemoryUserStore.cs",
+              "RelativeToolTip": "Services\\InMemoryUserStore.cs",
+              "ViewState": "AgIAAAUAAADgMjMzM/M1wDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:37:39.633Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "ClaimsHub.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Hubs\\ClaimsHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ClaimsHub.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Hubs\\ClaimsHub.cs",
+              "RelativeToolTip": "Hubs\\ClaimsHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:36:31.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Approval.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\Approval.cs",
+              "RelativeDocumentMoniker": "Models\\Approval.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\Approval.cs",
+              "RelativeToolTip": "Models\\Approval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:36:37.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClaimStoreTests.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\UnitTestProject1\\ClaimStoreTests.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestProject1\\ClaimStoreTests.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\UnitTestProject1\\ClaimStoreTests.cs",
+              "RelativeToolTip": "..\\UnitTestProject1\\ClaimStoreTests.cs",
+              "ViewState": "AgIAAAYAAABANDMzM7MSwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T20:53:15.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T18:30:50.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
@@ -396,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ReportsController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Controllers\\ReportsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
@@ -408,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ApprovalsController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Controllers\\ApprovalsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ApprovalsController.cs",
@@ -420,19 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Pending.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Approvals\\Pending.cshtml",
-              "RelativeDocumentMoniker": "Views\\Approvals\\Pending.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Approvals\\Pending.cshtml",
-              "RelativeToolTip": "Views\\Approvals\\Pending.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T20:32:13.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
@@ -444,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Auth\\Register.cshtml",
@@ -456,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -468,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ClaimsController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Controllers\\ClaimsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClaimsController.cs",
@@ -480,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -492,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Claims\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Claims\\Index.cshtml",
@@ -504,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Document.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\Document.cs",
               "RelativeDocumentMoniker": "Models\\Document.cs",
@@ -516,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Users\\Edit.cshtml",
@@ -528,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Users\\Create.cshtml",
@@ -540,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -552,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
@@ -564,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "DashboardViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\DashboardViewModel.cs",
               "RelativeDocumentMoniker": "Models\\DashboardViewModel.cs",
@@ -576,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\Notification.cs",
               "RelativeDocumentMoniker": "Models\\Notification.cs",
@@ -588,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
@@ -600,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "RoleAuthorizeAttribute.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Attributes\\RoleAuthorizeAttribute.cs",
               "RelativeDocumentMoniker": "Attributes\\RoleAuthorizeAttribute.cs",
@@ -612,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "SessionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Helpers\\SessionExtensions.cs",
               "RelativeDocumentMoniker": "Helpers\\SessionExtensions.cs",
@@ -624,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Users\\Index.cshtml",
@@ -636,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "New.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Claims\\New.cshtml",
               "RelativeDocumentMoniker": "Views\\Claims\\New.cshtml",
@@ -648,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "IUserStore.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Services\\IUserStore.cs",
               "RelativeDocumentMoniker": "Services\\IUserStore.cs",
@@ -660,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",
@@ -672,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Music\\src\\UnitTestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Music\\src\\UnitTestProject1\\UnitTest1.cs",
@@ -683,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "ClaimStoreTests.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
@@ -695,7 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Claims\\Detail.cshtml",
               "RelativeDocumentMoniker": "Views\\Claims\\Detail.cshtml",
@@ -707,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -719,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\Properties\\AssemblyInfo.cs",
@@ -731,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "UnitTestProject1.csproj",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\CMCS_Prototype_NET9\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
@@ -743,7 +758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "ClaimItem.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\ClaimItem.cs",
               "RelativeDocumentMoniker": "Models\\ClaimItem.cs",
@@ -755,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "AuditLog.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Models\\AuditLog.cs",
               "RelativeDocumentMoniker": "Models\\AuditLog.cs",
@@ -767,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -779,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "_inspection_index.json",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Downloads\\MonthlyClaimSystem1_fixed\\_inspection_index.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\MonthlyClaimSystem1_fixed\\_inspection_index.json",
@@ -790,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "UnitTestProject1.csproj",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTestProject1.csproj",
@@ -801,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "ClaimStoreTests.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\ClaimStoreTests.cs",
@@ -812,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\packages.config",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\packages.config",
@@ -823,7 +838,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\CMCS_Prototype_NET9\\src\\UnitTestProject1\\UnitTest1.cs",

@@ -1,46 +1,73 @@
-using System.Collections.Concurrent;
-using CMCS.Web.Models;
-
-namespace CMCS.Web.Services
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using CMCS.Web.Services;
+public class InMemoryClaimStore : IClaimStore
 {
-    public class InMemoryClaimStore : IClaimStore
+    // In-memory storage for claims
+    private List<Claim> claims = new List<Claim>();
+
+    // Implementing the Get method to retrieve a claim by its unique ID
+    public Claim Get(Guid claimId)
     {
-        private readonly ConcurrentDictionary<string, Claim> _db = new();
+        return claims.FirstOrDefault(c => c.Id == claimId);
+    }
 
-        public IEnumerable<Claim> All() => _db.Values.OrderByDescending(c => c.CreatedAt);
-        public IEnumerable<Claim> Pending() => _db.Values.Where(c => c.Status == ClaimStatus.PendingVerification);
+    // Implementing the All method to retrieve all claims
+    public List<Claim> All()
+    {
+        return claims;
+    }
 
-        public Claim? Get(string id) => id != null && _db.TryGetValue(id, out var c) ? c : null;
-
-        public Claim Add(Claim claim)
+    // Implementing the Approve method to approve a claim
+    public void Approve(Guid claimId)
+    {
+        var claim = Get(claimId);
+        if (claim != null)
         {
-            _db[claim.Id] = claim;
-            return claim;
+            claim.Status = "Approved";  // Set the status to Approved
+            // Other logic for approving the claim could be added here
         }
+    }
 
-        public void Approve(string id)
+    // Implementing the Reject method to reject a claim
+    public void Reject(Guid claimId)
+    {
+        var claim = Get(claimId);
+        if (claim != null)
         {
-            if (Get(id) is { } c) { c.Status = ClaimStatus.Approved; c.UpdatedAt = DateTime.UtcNow; }
+            claim.Status = "Rejected";  // Set the status to Rejected
+            // Other logic for rejecting the claim could be added here
         }
+    }
 
-        public void Reject(string id)
+    // Implementing the Settle method to settle a claim
+    public void Settle(Guid claimId)
+    {
+        var claim = Get(claimId);
+        if (claim != null)
         {
-            if (Get(id) is { } c) { c.Status = ClaimStatus.Rejected; c.UpdatedAt = DateTime.UtcNow; }
+            claim.Status = "Settled";  // Set the status to Settled
+            // Other logic for settling the claim could be added here
         }
+    }
 
-        public void Settle(string id)
+    // Implementing the Update method to update an existing claim
+    public void Update(Claim claim)
+    {
+        var existingClaim = Get(claim.Id);
+        if (existingClaim != null)
         {
-            if (Get(id) is { } c) { c.Status = ClaimStatus.Settled; c.UpdatedAt = DateTime.UtcNow; }
+            // Update the claim properties
+            existingClaim.Status = claim.Status; // Example: updating status
+            existingClaim.Description = claim.Description; // Example: updating description
+            // Add other properties you want to update
         }
+    }
 
-        public void Update(Claim claim)
-        {
-            throw new NotImplementedException();
-        }
-
-        public Claim Get(Guid id)
-        {
-            throw new NotImplementedException();
-        }
+    // Implementing the Add method to add a new claim
+    public void Add(Claim claim)
+    {
+        claims.Add(claim);  // Add the new claim to the in-memory list
     }
 }

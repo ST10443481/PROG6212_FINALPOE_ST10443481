@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\Downloads\\Updated poe final zip\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj": {}
+    "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\Downloads\\Updated poe final zip\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj": {
+    "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\Downloads\\Updated poe final zip\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj",
         "projectName": "CMCS.Web",
-        "projectPath": "C:\\Users\\lab_services_student\\Downloads\\Updated poe final zip\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\Downloads\\Updated poe final zip\\Updated poe final\\src\\CMCS.Web\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

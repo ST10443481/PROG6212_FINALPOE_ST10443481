@@ -185,38 +185,6 @@ C:\Users\lab_services_student\Music\Updated poe final\src\CMCS.Web\obj\Debug\net
 C:\Users\lab_services_student\Music\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.pdb
 C:\Users\lab_services_student\Music\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.genruntimeconfig.cache
 C:\Users\lab_services_student\Music\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\ref\CMCS.Web.dll
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.AssemblyInfoInputs.cache
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.AssemblyInfo.cs
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.csproj.CoreCompileInputs.cache
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.RazorAssemblyInfo.cache
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.RazorAssemblyInfo.cs
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.sourcelink.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.dll
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\refint\CMCS.Web.dll
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.pdb
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.staticwebassets.runtime.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.staticwebassets.endpoints.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.exe
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.deps.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.runtimeconfig.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.dll
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.pdb
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\scopedcss\bundle\CMCS.Web.styles.css
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\compressed\4t1gl1vkui-g0tte7tfuo.gz
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\compressed\gtu0u3umjd-9tr1divzaw.gz
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\staticwebassets.development.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.genruntimeconfig.cache
-C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\ref\CMCS.Web.dll
 C:\Users\lab_services_student\Downloads\Updated poe final zip\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.staticwebassets.runtime.json
 C:\Users\lab_services_student\Downloads\Updated poe final zip\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.staticwebassets.endpoints.json
 C:\Users\lab_services_student\Downloads\Updated poe final zip\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.exe
@@ -248,3 +216,35 @@ C:\Users\lab_services_student\Downloads\Updated poe final zip\Updated poe final\
 C:\Users\lab_services_student\Downloads\Updated poe final zip\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.pdb
 C:\Users\lab_services_student\Downloads\Updated poe final zip\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.genruntimeconfig.cache
 C:\Users\lab_services_student\Downloads\Updated poe final zip\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\ref\CMCS.Web.dll
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.exe
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.deps.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.dll
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\bin\Debug\net9.0\CMCS.Web.pdb
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.sourcelink.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\scopedcss\bundle\CMCS.Web.styles.css
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\compressed\4t1gl1vkui-g0tte7tfuo.gz
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\compressed\gtu0u3umjd-9tr1divzaw.gz
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.dll
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\refint\CMCS.Web.dll
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.pdb
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\CMCS.Web.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\PROG6212_FINALPOE_ST10443481\Updated poe final\src\CMCS.Web\obj\Debug\net9.0\ref\CMCS.Web.dll

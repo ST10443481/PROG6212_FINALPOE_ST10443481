@@ -99,14 +99,21 @@
         <a href="/">Dashboard</a>
         <a href="/Claims">Claims</a>
         <a href="/Approvals">Approvals</a>
-        <a href="#" onclick="alert('Documents module (simulation)'); return false;">Documents</a>
+        <a href="/Users/Index">Manage Users</a>
         <a class="right" href="/Auth/Register">Register</a>
         <a class="left" href="/Auth/Login">Login</a>
+
     </nav>
     @{
         var user = Context.Session.GetObject<CMCS.Web.Models.User>("User");
     }
-
+   
+    @if (user != null && user.Role == "HR")
+    {
+        //<a href="/Users/Index" class="btn btn-primary right" style="margin-left:auto;">Manage Users</a>
+    }
+ 
+   
     @if (user == null)
     {
        // <a class="nav-link" href="/Auth/Login">Login</a>

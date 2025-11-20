@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xhWjjRfbsw0=",
+  "dgSpecHash": "2NETQBh3YXM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lab_services_student\\Downloads\\Updated poe final zip\\Updated poe final\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\UnitTestProject1\\UnitTestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lab_services_student\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",

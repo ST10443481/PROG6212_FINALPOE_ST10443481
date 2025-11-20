@@ -1807,11 +1807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lab_services_student\\Downloads\\Updated poe final zip\\Updated poe final\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\UnitTestProject1\\UnitTestProject1.csproj",
       "projectName": "UnitTestProject1",
-      "projectPath": "C:\\Users\\lab_services_student\\Downloads\\Updated poe final zip\\Updated poe final\\src\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\UnitTestProject1\\UnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lab_services_student\\Downloads\\Updated poe final zip\\Updated poe final\\src\\UnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1832,8 +1832,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\lab_services_student\\Downloads\\Updated poe final zip\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj": {
-              "projectPath": "C:\\Users\\lab_services_student\\Downloads\\Updated poe final zip\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj"
+            "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj": {
+              "projectPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_FINALPOE_ST10443481\\Updated poe final\\src\\CMCS.Web\\CMCS.Web.csproj"
             }
           }
         }

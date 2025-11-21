@@ -1,4 +1,6 @@
 # PROG6212_FINALPOE_ST10443481
+GitHub Link: https://github.com/ST10443481/PROG6212_FINALPOE_ST10443481.git 
+
 📘 Contract Monthly Claim System (CMCS)
 
 A .NET Core MVC web application designed to streamline the monthly claim submission and approval process for Independent Contractor (IC) lecturers.
@@ -99,6 +101,7 @@ Add/update users
 Create reports
 
 🔧 6. Part 3 Enhancements (Fully Implemented)
+
 Requirement	Status
 HR as super user	✔ Completed
 HR adds & updates all users	✔ Completed
